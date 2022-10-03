@@ -1,0 +1,151 @@
+.logo{
+
+width: 87px;
+height: 100px;
+margin-left: 70px;
+margin-top: 30px
+}
+.heading1{
+
+ margin-left: 120px;
+margin-top: 20px;
+font-style: italic;
+font-weight: 900;
+font-size: 50;
+text-align: center;
+color:"black";
+}
+.heading2{
+
+width: 151px;
+height: 28px;
+margin-left: 250px;
+margin-top: 20px;
+font-weight: 600;
+font-size: 18px;
+color: #A2A3A5;
+}
+.mob-num{
+
+width: 200px;
+height: 28px;
+margin-left: 140px;
+margin-top: 3px;
+border-radius: 10px;
+
+}
+.mob-otp{
+
+width: 241px;
+height: 48px;
+box-shadow: 1px 1px 1px 1px red;
+margin-left: 140px;
+margin-top: 20px;
+border-radius: 20px;
+background-color: red;
+color: beige;
+}
+.first-img{
+
+width: 350px;
+height: 350px;
+margin-left: 10px;
+margin-top: 100px;  
+}
+.heading3{
+
+    margin-left: 110px;
+   margin-top: 20px;
+   font-style: italic;
+   font-weight: 900;
+   font-size: 50;
+   text-align: center;
+   color:"black";
+   }
+   .heading4{
+
+    margin-left: 110px;
+   margin-top: 20px;
+   font-style: italic;
+   font-weight: 900;
+   font-size: 10;
+   text-align: center;
+   color:"black";
+   }
+   .ot-num{
+
+    width: 200px;
+    height: 28px;
+    margin-left: 150px;
+    margin-top: 3px;
+    border-radius: 10px;
+    
+    }
+    .ot-otp{
+    
+    width: 241px;
+    height: 48px;
+    box-shadow: 1px 1px 1px 1px red;
+    margin-left: 150px;
+    margin-top: 20px;
+    border-radius: 20px;
+    background-color: red;
+    color: beige;
+    }
+    .second-img{
+    
+    width: 350px;
+    height: 350px;
+    margin-left: 10px;
+    margin-top: 80px;  
+    }
+    .form{
+
+            width: 200px;
+            height: 38px;
+            margin-left: 10px;
+            margin-top: 10px;
+            border-radius: 10px;
+            
+            }
+            .submit{
+    
+                width: 200px;
+                height: 38px;
+                margin-left: 10px;
+                margin-top: 10px;
+                border-radius: 10px;
+                box-shadow: 1px 1px 1px 1px red;
+                
+                border-radius: 20px;
+                background-color: red;
+                color: beige;
+                }
+                @media screen and (max-width: 500px) {
+                  .heading1{
+                    margin-left: 50px;
+                  }  
+                  .heading2{
+                    margin-left: 120px;
+                  }
+                  .mob-num{
+                 margin-left: 50px;
+                  } 
+                  .mob-otp{
+                 margin-left: 30px;
+                    
+                  }
+                  .heading3{
+                    margin-left: 30px;
+                  }  
+                  .heading4{
+                    margin-left: 90px;
+                  }
+                  .ot-num{
+                 margin-left: 50px;
+                  } 
+                  .ot-otp{
+                 margin-left: 30px;
+                    
+                  }
+                  }
